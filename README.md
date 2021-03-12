@@ -3,4 +3,4 @@
 
 Skills: Ruby / RoR / Javascript / React  
 
-- 🔭 I’m currently working on a React + RoR API 
+- 🔭 I’m currently working on a C# project
